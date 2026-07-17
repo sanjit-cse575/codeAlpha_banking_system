@@ -65,7 +65,7 @@ class BankAccount{
             cin>>choice;
 
             switch(choice){
-                case1:
+                case 1:
                 acc.createaccount();
                 break;
 
